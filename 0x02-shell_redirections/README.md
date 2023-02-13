@@ -22,3 +22,4 @@ The script 20-hiago removes all letters c and C from input
 The script 21-reverse reverses its input.
 The script 22-users_and_homes displays all users and their home directories, sorted by users.
 The script 101-gifs sts all the files with a .gif extension in the current directory and all its sub-directories.
+The script 102-acrostic is an acrostic is a poem

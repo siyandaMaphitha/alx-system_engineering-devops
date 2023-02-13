@@ -8,3 +8,4 @@ the script 5-firstlines displays the first 10 lines of /etc/passwd
 The script 6-third_line displays the third line of the file iacta
 The script 7-file creates a file named Best School
 The script 8-cwd_state writes into the file ls_cwd_content
+The script 9-duplicate_last_line duplicates the last line of the file iacta

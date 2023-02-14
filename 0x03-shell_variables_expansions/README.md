@@ -8,3 +8,4 @@ The script 5-local_variables lists all local variables and environment variables
 The scripy 6-create_local_variable creates a new local variable
 The script 7-create_global_variable creates a new global variable.
 The script 8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable
+The script 9-divide_and_rule prints the result of POWER divided by DIVIDE, followed by a new line.

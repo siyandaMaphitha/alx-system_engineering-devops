@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -n staff.vincent _hello
+chown -n vincent.staff _hello
